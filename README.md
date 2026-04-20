@@ -90,6 +90,3 @@ Trained networks are saved as `.json` files containing the architecture, weights
 
 ---
 
-## License
-
-MIT
